@@ -1,1 +1,2 @@
-# COOKINGWEBSITE
+# Cookmania
+This is a cooking website.
